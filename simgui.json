@@ -1,0 +1,30 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/SmartDashboard/Field": "Field2d",
+      "/SmartDashboard/PPRamseteCommand_field": "Field2d"
+    },
+    "windows": {
+      "/SmartDashboard/Field": {
+        "bottom": 900,
+        "height": 8.229599952697754,
+        "image": "C:\\Users\\Public\\wpilib\\2022\\projects\\FRC-23-Testing-Imported\\images/2022-field.png",
+        "left": 74,
+        "right": 1774,
+        "top": 50,
+        "width": 16.459199905395508,
+        "window": {
+          "visible": true
+        }
+      }
+    }
+  },
+  "NetworkTables": {
+    "transitory": {
+      "SmartDashboard": {
+        "open": true
+      }
+    }
+  }
+}
